@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Abhishek Chaudhary
+- Currently in final year of BCA.
+- I have good knowledge of HTML,CSS,Java Programming, Bootstrap and currently working on Javascript.
+- I'm looking for an Internship or any Job related to my profession.
+- 
